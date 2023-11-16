@@ -1,0 +1,11 @@
+.friend-list {
+  position: relative;
+  top: -600px;
+  left: 80%;
+  list-style: none;
+  width: 90px;
+  padding: 40px;
+  -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+  box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+}
